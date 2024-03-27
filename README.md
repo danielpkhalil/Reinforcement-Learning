@@ -2,12 +2,6 @@
 
 This repository contains implementations of various reinforcement learning algorithms applied to different environments. The goal of this repository is to provide clear and concise implementations of reinforcement learning algorithms.
 
-## Table of Contents
-- Environments
-- Algorithms
-- Getting Started
-- Contributing
-
 ## Environments
 1. **FrozenLake**: A gridworld environment where the agent must navigate a frozen lake and avoid falling into holes.
    ![FrozenLake](./images/frozen_lake.gif)
