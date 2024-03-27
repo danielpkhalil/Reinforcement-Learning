@@ -9,18 +9,16 @@ This repository contains implementations of various reinforcement learning algor
 - Contributing
 
 ## Environments
-The following environments have been explored in this repository:
-
 1. **FrozenLake**: A gridworld environment where the agent must navigate a frozen lake and avoid falling into holes.
-   ![FrozenLake](./images/frozenlake.gif)
+   ![FrozenLake](./images/frozen_lake.gif)
 2. **CartPole**: The agent must balance a pole on a cart for as long as possible.
-   ![CartPole](./images/CartPole.gif)
-3. **Humanoid**: A complex MuJoCo environment where a humanoid agent must learn to walk.
-   ![Humanoid](./images/Humanoid.gif)
+   ![CartPole](./images/cart_pole.gif)
+3. **BlackJack**: The agent's goal is to win at Blackjack.
+   ![Blackjack](./images/blackjack.gif)
+4. **Humanoid**: A complex MuJoCo environment where a humanoid agent must learn to walk.
+   ![Humanoid](./images/humanoid.gif)
 
 ## Algorithms
-The following algorithms have been implemented:
-
 1. **Q-Learning**: Used for solving the FrozenLake and CartPole environments.
 2. **Soft Actor-Critic (SAC)**: Used for solving the Humanoid environment.
 3. **Deep Q-Network (DQN)**: Used for solving the CartPole environment.
