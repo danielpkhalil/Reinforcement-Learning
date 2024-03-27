@@ -12,11 +12,11 @@ This repository contains implementations of various reinforcement learning algor
 The following environments have been explored in this repository:
 
 1. **FrozenLake**: A gridworld environment where the agent must navigate a frozen lake and avoid falling into holes.
-   ![FrozenLake](./gifs/frozenlake.gif)
+   ![FrozenLake](./images/frozenlake.gif)
 2. **CartPole**: The agent must balance a pole on a cart for as long as possible.
-   ![CartPole](./gifs/CartPole.gif)
-3. **Humanoid**: A complex environment where a humanoid agent must learn to walk.
-   ![Humanoid](./gifs/Humanoid.gif)
+   ![CartPole](./images/CartPole.gif)
+3. **Humanoid**: A complex MuJoCo environment where a humanoid agent must learn to walk.
+   ![Humanoid](./images/Humanoid.gif)
 
 ## Algorithms
 The following algorithms have been implemented:
