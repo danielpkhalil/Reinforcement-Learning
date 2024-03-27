@@ -1,4 +1,4 @@
-# Reinforcement Learning Repository
+# Reinforcement Learning
 
 This repository contains implementations of various reinforcement learning algorithms applied to different environments. The goal of this repository is to provide clear and concise implementations of reinforcement learning algorithms.
 
